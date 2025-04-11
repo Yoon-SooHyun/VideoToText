@@ -1,0 +1,4 @@
+lecture_texts/
+.env
+temp_audio_*.mp3
+temp_chunk_*.wav
